@@ -1,0 +1,8 @@
+INSERT INTO output ( nr, osoba, miasto, adres ) VALUES 
+ ( "11 ", "Róbert Fannar Jónsson     ", "Ótilgreindu         ", "Ótilgreint       " ),
+ ( "12 ", "Guđbjörg Sigurđardóttir   ", "Svíţjóđ             ", "Syđri-Langamýri  " ),
+ ( "13 ", "Hilmar Jóhannesdóttir     ", "víţjóđ              ", "ALllsmúli 29B    " );
+GO
+INSERT INTO output ( nr, osoba, miasto, adres ) VALUES 
+ ( "14 ", "Máría Sól Jóhannesdóttir  ", "Svíţjóđ             ", "Háaberg 13       " );
+GO

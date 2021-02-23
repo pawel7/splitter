@@ -1,0 +1,26 @@
+source_filename: sample-input.txt
+output_filename: output.txt
+table_name: output
+
+column_name: nr
+column_position: 3
+column_length: 3
+
+column_name: osoba
+column_position: 96
+column_length: 26
+
+column_name: miasto
+column_position: 229
+column_length: 20
+
+column_name: adres
+column_position: 208
+column_length: 17
+
+table_one_insert_count: 3
+sql_type_out: 1
+split_files_every_rows: 5
+
+source_collation: utf-8
+destination_collation: utf-8
